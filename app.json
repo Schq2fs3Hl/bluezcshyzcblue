@@ -1,6 +1,6 @@
 {
-    "name": "hourseshyzc",
-    "description": "hourseshyzc",
+    "name": "bluezcshyzcblue",
+    "description": "bluezcshyzcblue",
     "keywords": ["tor"],
     "env": {
         "AA": {
@@ -17,18 +17,18 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/crr3wr6de/hourseshyzc/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/crr3wr6de/bluezcshyzcblue/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/crr3wr6de/hourseshyzc/main/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/crr3wr6de/bluezcshyzcblue/main/etc/xray.json"
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/crr3wr6de/hourseshyzc/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/crr3wr6de/bluezcshyzcblue/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/crr3wr6de/hourseshyzc",
-    "repository": "https://github.com/crr3wr6de/hourseshyzc",
+    "website": "https://github.com/crr3wr6de/bluezcshyzcblue",
+    "repository": "https://github.com/crr3wr6de/bluezcshyzcblue",
     "stack": "container"
 }
